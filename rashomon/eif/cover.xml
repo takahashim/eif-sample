@@ -9,8 +9,9 @@
   <title>芥川龍之介『羅生門』(表紙)</title>
 </head>
 <body>
-<div>
+<div id="cover">
 <h1>羅生門</h1>
-<h2>芥川龍之介</h2>
+<em>芥川龍之介</em>
+</div>
 </body>
 </html>
