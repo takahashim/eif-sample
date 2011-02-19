@@ -1,0 +1,13 @@
+<global_setting>
+  <default_ccs>"JIS X 0208:1997","JIS X 0213"</default_ccs>
+  <page_progression_direction>rl</page_progression_direction> <!-- 仕様書は逆？？ -->
+  <writing_mode>vertical-rl</writing_mode> <!-- よくわかんないけどCSS3 writing modesを参考にした -->
+  <!-- title_bar要素とrunning_head要素はT-Time専用っぽいのでなかったことにしたい -->
+  <prohibit_rule line_break="auto" /> <!-- とりあえずautoに -->
+  <hanging_char>！？</hanging_char> <!-- 使い方不明…ぶら下げたい文字を指定すればよいのか？  -->
+  <hanging_punctuation></hanging_punctuation> <!-- 使い方不明…属性名に何をどうするのを想定？ -->
+  <top_prohibit_char>,)]｝、〕〉》」』】〙〗〟｠ヽヾーァィゥェォッャュョヮヵヶぁぃぅぇぉっゃゅょゎゕゖㇰㇱㇲㇳㇴㇵㇶㇷㇸㇹㇺㇻㇼㇽㇾㇿ々〻‐゠–〜・:;。.</top_prohibit_char> <!-- wikipediaを参考 -->
+  <end_prohibit_char>([｛〔〈《「『【〘〖〝｟</end_prohibit_char> <!-- wikipediaを参考 -->
+  <permission type="copy" value="authorized" /> <!-- 適当につけてみた -->
+  <proprietary></proprietary> <!-- 特にない -->
+</global_setting>

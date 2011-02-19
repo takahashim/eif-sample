@@ -1,0 +1,20 @@
+<bibliography>
+  <title reading="らしょうもん">羅生門</title>
+  <edition></edition>
+  <creator role="author">
+    <person>
+      <name type="last" reading="あくたがわ">芥川</name><name type="first" reading="りゅうのすけ">龍之介</name>
+    </person>
+  </creator><!-- こんなんでいいの？？ -->
+  <description>
+底本：	芥川龍之介全集1
+出版社：	ちくま文庫、筑摩書房
+初版発行日：	1986（昭和61）年9月24日
+入力に使用：	1997（平成9）年4月15日第14刷
+■工作員データ
+入力：	野口英司
+入力：	平山誠
+校正：	もりみつじゅんじ
+  </description>
+  <identifier>http://www.aozora.gr.jp/cards/000879/card127.html</identifier><!-- こんなんでいいのかな？ -->
+</bibliography>
