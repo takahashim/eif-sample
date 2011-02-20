@@ -7,6 +7,7 @@
 </head>
 <body type="text" turning_page_control="off"> <!-- typeを明示してみた -->
 <div id="main"><!-- というかそもそもidとclassって自由にdivに定義できるんだっけ？ -->
+<h1>羅生門</h1>
 <!-- 以下、青空文庫のXHTML版をそのまま借用。rp要素つき -->
 <p>
 ある日の暮方の事である。一人の<ruby><rb>下人</rb><rp>（</rp><rt>げにん</rt><rp>）</rp></ruby>が、<ruby><rb>羅生門</rb><rp>（</rp><rt>らしょうもん</rt><rp>）</rp></ruby>の下で雨やみを待っていた。
