@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html SYSTEM "eif.dtd" >
+<html xml:lang="ja"> <!-- xmlnsはどうするんだ？-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+  <meta http-equiv="Content-Style-Type" content="text/css"/>
+  <link rel="stylesheet" href="style0.css" type="text/css" media="screen" /><!-- mediaはスクリーンにそのまま対応 -->
+  <meta name="generator" content="tegaki EIF Maker"/>
+  <title>芥川龍之介『羅生門』(奥付)</title>
+</head>
+<body>
+<div id="imprint">
+  <p class="title">羅生門</p>
+
+  <div>
+    <p>青空文庫元テキスト書誌情報:</p>
+    <pre>
+底本：「芥川龍之介全集1」ちくま文庫、筑摩書房
+　　　1986（昭和61）年9月24日第1刷発行
+　　　1997（平成9）年4月15日第14刷発行
+底本の親本：「筑摩全集類聚版芥川龍之介全集」筑摩書房
+　　　1971（昭和46）年3月〜1971（昭和46）年11月
+入力：平山誠、野口英司
+校正：もりみつじゅんじ
+1997年10月29日公開
+2010年11月4日修正
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
+    </pre>
+  </div>
+
+  <div class="pubhistory">
+    <p>2011年2月20日 v0.2.0版発行(電子書籍交換フォーマット版)</p>
+  </div>
+
+  <table>
+    <tr>
+      <th>著　者</th><td>芥川龍之介</td>
+    </tr>
+    <tr>
+      <th>発行所</th><td>達人出版会</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
