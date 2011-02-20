@@ -8,7 +8,7 @@
 サンプル文書
 ------------
 
- * 羅生門 [rashomon/] (https://github.com/takahashim/eif-sample/tree/master/rashomon)
+ * 羅生門 [rashomon/](https://github.com/takahashim/eif-sample/tree/master/rashomon)
 
 
 制作
