@@ -12,6 +12,7 @@
     <item id="toc" href="toc.xml" media-type="application/xhtml+xml"/>
     <item id="text0" href="text0.xml" media-type="application/xhtml+xml"/>
     <item id="imprint" href="imprint.xml" media-type="application/xhtml+xml"/>
+    <item id="style0" href="style0.css" media-type="text/css"/>
   </manifest>
 </package>
 
