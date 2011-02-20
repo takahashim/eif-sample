@@ -1,6 +1,6 @@
 <package version="1.0"><!-- version番号は適当 -->
   <spine toc="toc.xml"
-         global_setting="global"
+         global_setting="global.xml"
          bibliography="biblio.xml">
     <!-- itemref要素はspine要素の子要素でいいの？ -->
     <itemref idref="text0"/>
