@@ -4,14 +4,10 @@
          bibliography="bibli.xml">
     <!-- itemref要素はspine要素の子要素でいいの？ -->
     <itemref idref="text0"/>
-    <itemref idref="imprint"/>
   </spine>
   <manifest>
     <!-- item要素はmanifest要素の子要素でいいの？ -->
-    <item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
-    <item id="toc" href="toc.xml" media-type="application/xhtml+xml"/>
     <item id="text0" href="text0.xml" media-type="application/xhtml+xml"/>
-    <item id="imprint" href="imprint.xml" media-type="application/xhtml+xml"/>
   </manifest>
 </package>
 

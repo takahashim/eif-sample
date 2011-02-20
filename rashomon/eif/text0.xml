@@ -6,7 +6,22 @@
 <link rel="stylesheet" href="style0.css" type="text/css" media="screen" /><!-- mediaはスクリーンにそのまま対応 -->
 </head>
 <body type="text" turning_page_control="off"> <!-- typeを明示してみた -->
+
+<section part="cover"><!-- 本当は画像が期待されているのかも、と思いつつ -->
+<div class="cover">
+  <h1>羅生門</h1>
+  <em>芥川龍之介</em>
+</div>
+</section>
+
+<section id="toc" part="toc">
+  <div level="1"><a href="#toc">目次</a></div>
+  <div level="1"><a href="#main">羅生門</a></div>
+  <div level="1"><a href="#imprint">奥付</a></div>
+</section>
+
 <div id="main"><!-- というかそもそもidとclassって自由にdivに定義できるんだっけ？ -->
+<h1>羅生門</h1>
 <!-- 以下、青空文庫のXHTML版をそのまま借用。rp要素つき -->
 <p>
 ある日の暮方の事である。一人の<ruby><rb>下人</rb><rp>（</rp><rt>げにん</rt><rp>）</rp></ruby>が、<ruby><rb>羅生門</rb><rp>（</rp><rt>らしょうもん</rt><rp>）</rp></ruby>の下で雨やみを待っていた。
@@ -120,6 +135,43 @@
 <div class="yearmonth"><!--［＃地から１字上げ］-->
 <p>（大正四年九月）</p>
 </div>
+</div>
+
+<div id="imprint">
+  <p class="title">羅生門</p>
+
+  <div>
+    <p>青空文庫元テキスト書誌情報:</p>
+    <pre>
+底本：「芥川龍之介全集1」ちくま文庫、筑摩書房
+　　　1986（昭和61）年9月24日第1刷発行
+　　　1997（平成9）年4月15日第14刷発行
+底本の親本：「筑摩全集類聚版芥川龍之介全集」筑摩書房
+　　　1971（昭和46）年3月〜1971（昭和46）年11月
+入力：平山誠、野口英司
+校正：もりみつじゅんじ
+1997年10月29日公開
+2010年11月4日修正
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
+    </pre>
+  </div>
+
+  <div class="pubhistory">
+    <p>2011年2月20日 v0.2.1版発行(電子書籍交換フォーマット版)</p>
+  </div>
+
+  <table>
+    <tr>
+      <th>著　者</th><td>芥川龍之介</td>
+    </tr>
+    <tr>
+      <th>発行所</th><td>達人出版会</td>
+    </tr>
+  </table>
+</div>
+
+
 </body>
 </html>
 
