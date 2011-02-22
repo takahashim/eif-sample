@@ -1,7 +1,7 @@
 <package version="1.0"><!-- version番号は適当 -->
-  <spine toc="toc.xml"
-         global_setting="global.xml"
-         bibliography="biblio.xml">
+  <spine toc="toc"
+         global_setting="global"
+         bibliography="biblio">
     <!-- itemref要素はspine要素の子要素でいいの？ -->
     <itemref idref="text0"/>
     <itemref idref="imprint"/>
@@ -10,6 +10,8 @@
     <!-- item要素はmanifest要素の子要素でいいの？ -->
     <item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
     <item id="toc" href="toc.xml" media-type="application/xhtml+xml"/>
+    <item id="global_setting" href="global_setting.xml" media-type="text/xml"/>
+    <item id="biblio" href="biblio.xml" media-type="text/xml"/>
     <item id="text0" href="text0.xml" media-type="application/xhtml+xml"/>
     <item id="imprint" href="imprint.xml" media-type="application/xhtml+xml"/>
     <item id="style0" href="style0.css" media-type="text/css"/>
